@@ -1,0 +1,16 @@
+    Technical Specification: Sony PlayStation 5 (PS5)
+
+    - CPU: 8x Zen 2 Cores at 3.5GHz (variable frequency)
+    - GPU: 10.28 TFLOPs, 36 CUs at 2.23GHz (variable frequency)
+    - Memory: 16GB GDDR6/256-bit
+    - Internal Storage: Custom 825GB NVMe SSD
+    - Controller: DualSense Wireless Controller
+    - DualSense Key Features: Haptic feedback, adaptive triggers, built-in microphone array. Haptic feedback provides nuanced physical sensations, far more immersive than standard rumble. Adaptive triggers offer varying levels of force and tension, simulating actions like drawing a bowstring.
+    
+    FAQ: PlayStation VR2 (PS VR2)
+
+    - Compatibility: Exclusively for PlayStation 5. Not compatible with PS4.
+    - Display: OLED, 4000 x 2040 resolution (2000 x 2040 per eye), 90Hz/120Hz refresh rate.
+    - Key Features: Eye tracking, headset feedback (rumble), 3D Audio. Eye tracking allows for foveated rendering, which concentrates rendering resources where the user is looking, improving performance.
+    - Controllers: PS VR2 Sense controllers with haptic feedback and adaptive triggers.
+    
